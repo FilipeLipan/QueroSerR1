@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#A1ACB2</color>
+    <color name="colorAccent">#B2A1A1</color>
+
+    <!--main-->
+    <color name="colorCardViewMain">#A1ACB2</color>
+</resources>

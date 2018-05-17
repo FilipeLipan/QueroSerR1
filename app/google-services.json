@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714083801169",
+    "firebase_url": "https://queroserr1-817f6.firebaseio.com",
+    "project_id": "queroserr1-817f6",
+    "storage_bucket": "queroserr1-817f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714083801169:android:4f483e99d3d81b07",
+        "android_client_info": {
+          "package_name": "gabriel.app.queroserr1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714083801169-jj2d4qahr66nlnp8lcq0e5b58ac26sjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gabriel.app.queroserr1",
+            "certificate_hash": "39c9afbbf4701d94b4c54362f4b25c2d6357e4a7"
+          }
+        },
+        {
+          "client_id": "714083801169-biqm428t9uk2ubu4b2c5vt3odg9qeonv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VZXELttbWSegymFaqwj3EGLBtwjZE3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714083801169-biqm428t9uk2ubu4b2c5vt3odg9qeonv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
